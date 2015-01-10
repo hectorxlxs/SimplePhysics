@@ -5,8 +5,8 @@
 //  Copyright (c) 2015 Jordan Rodrigues Rangel. All rights reserved.
 //
 
-#ifndef __NanoChallenge_ThreeComponents__Liquid__
-#define __NanoChallenge_ThreeComponents__Liquid__
+#ifndef __Liquid__
+#define __Liquid__
 
 
 class Liquid
@@ -21,4 +21,4 @@ public:
     Liquid(float x = 0.0f, float y = 0.0f, float w = 0.0f, float h = 0.0f, float c = 0.0f);
 };
 
-#endif /* defined(__NanoChallenge_ThreeComponents__Liquid__) */
+#endif /* defined(__Liquid__) */

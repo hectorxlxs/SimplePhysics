@@ -5,8 +5,8 @@
 //  Copyright (c) 2015 Jordan Rodrigues Rangel. All rights reserved.
 //
 
-#ifndef __NanoChallenge_ThreeComponents__Motion__
-#define __NanoChallenge_ThreeComponents__Motion__
+#ifndef __Motion__
+#define __Motion__
 
 #include "AlgebraVector.h"
 #include "Liquid.h"
@@ -37,4 +37,4 @@ public:
     bool IsInside(const Liquid& l);
 };
 
-#endif /* defined(__NanoChallenge_ThreeComponents__Motion__) */
+#endif /* defined(__Motion__) */
